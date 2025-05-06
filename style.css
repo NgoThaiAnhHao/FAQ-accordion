@@ -113,6 +113,12 @@ span {
   }
 }
 
+@media (max-width: 450px) {
+  html {
+    font-size: 8px;
+  }
+}
+
 @media (max-width: 375px) {
   html {
     font-size: 7px;
